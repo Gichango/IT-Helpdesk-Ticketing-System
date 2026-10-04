@@ -1,0 +1,17 @@
+# Database credentials
+Config/Database.php
+
+# Environment files
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Windows files
+Thumbs.db
